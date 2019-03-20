@@ -1,5 +1,5 @@
 # mpl-logoplot
-Simple utilities for logoplots in directly in Matplotlib
+Simple script for logoplots directly in Matplotlib
 
 ```python
 fig, ax = plt.subplots()
