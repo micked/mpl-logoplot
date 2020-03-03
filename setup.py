@@ -27,7 +27,7 @@ def _read(*parts, **kwargs):
 
 
 def get_long_description():
-    return _read('README.rst')
+    return _read('README.md')
 
 
 setup(
